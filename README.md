@@ -1,16 +1,26 @@
 # destination_app
 
-A new Flutter project.
+Destination App - Flutter UI
 
-## Getting Started
+A modern travel destination mobile application built using Flutter.
+This project focuses on clean UI design, reusable widgets, and responsive layout structure.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+Beautiful travel destination cards
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clean and modern UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Reusable custom widgets
+
+Organized project structure
+
+Responsive layout
+
+## Tech Stack
+
+Flutter
+
+Dart
+
+Material Design
